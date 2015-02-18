@@ -1960,7 +1960,7 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
             "assets/images/their-iphones.jpg",
             "assets/images/his-ipad.jpg"];
 
-  phrases = ["your iphone porn free",
+  phrases = ["your blueberry porn free",
              "her ipad porn free",
              "their iphones porn free",
              "his ipad porn free"];
