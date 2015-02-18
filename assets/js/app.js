@@ -5,7 +5,7 @@ $(document).ready(function(){
             "assets/images/their-iphones.jpg",
             "assets/images/his-ipad.jpg"];
 
-  phrases = ["your blueberry porn free",
+  phrases = ["your iphone porn free",
              "her ipad porn free",
              "their iphones porn free",
              "his ipad porn free"];
