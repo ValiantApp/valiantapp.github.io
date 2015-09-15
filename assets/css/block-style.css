@@ -1,0 +1,29 @@
+body#block{
+  background: #fff;
+}
+
+body#block h1 {
+  color: #353330;
+  width: 80%;
+  margin: auto;
+  font-size: 1.8em;
+  letter-spacing: 2px;
+  max-width: 500px;
+}
+
+.logo-color {
+  width: 40%;
+  margin-left: 30%;
+  margin-top: 80px;
+  margin-bottom: -30px;
+}
+
+body#block p {
+  color: #353330;
+  text-align: left;
+}
+
+body#block a {
+  text-decoration: underline;
+  color: #353330;
+}
